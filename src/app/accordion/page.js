@@ -1,5 +1,5 @@
 "use client"
-import data from '@/lib/dataAccord.js'
+import data from '@/data/dataAccord.js'
 import { useState } from 'react'
 
 const Accordion = () => {
